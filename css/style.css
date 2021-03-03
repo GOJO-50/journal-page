@@ -16,7 +16,8 @@ body{
     border-top: 3px double blue;
     border-bottom: 3px double blue;
     font-size: 18pt;
-    line-height: 40pt;
+    line-height: 20pt;
+
 }
 
 .story{
@@ -31,4 +32,8 @@ body{
 blockquote{
     border-left: 4px solid grey;
     padding: 1em;
+}
+
+.kids{
+    margin-left: -3rem;
 }
