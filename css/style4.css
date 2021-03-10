@@ -35,7 +35,7 @@ blockquote{
 }
 .journal-header{
     margin: 0;
-    background-image: url(../image/remote-home.jpg);
+    background-color: aqua;
     min-height: 100%;
     display: flex;
 }
