@@ -1,0 +1,39 @@
+img {
+    max-width: 100%;
+}
+
+h1{
+    font-size: 44pt;
+    
+}
+
+body{
+    font-size: 12pt;
+    text-align: justify;
+}
+
+.first{
+    border-top: 3px double blue;
+    border-bottom: 3px double blue;
+    font-size: 18pt;
+    line-height: 20pt;
+
+}
+
+.story{
+    font-size: 13pt;
+    width: 40%;
+    margin: 0% auto;
+    background-color: white;
+    padding: 3em;
+    text-align: justify;
+}
+
+blockquote{
+    border-left: 4px solid grey;
+    padding: 1em;
+}
+
+.kids{
+    margin-left: -3rem;
+}
