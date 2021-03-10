@@ -1,39 +1,48 @@
 img {
     max-width: 100%;
 }
-
 h1{
-    font-size: 44pt;
-    
+    font-size: 48pt;
+    margin: 0;
+    text-align: left;
 }
-
 body{
     font-size: 12pt;
     text-align: justify;
 }
-
 .first{
     border-top: 3px double blue;
     border-bottom: 3px double blue;
-    font-size: 18pt;
-    line-height: 20pt;
+    font-size: 24pt;
+    line-height: 30pt;
 
 }
-
-.story{
-    font-size: 13pt;
+.journal-content{
+    font-size: 14pt;
     width: 40%;
     margin: 0% auto;
     background-color: white;
-    padding: 3em;
+    padding: -1em;
     text-align: justify;
+    
 }
-
 blockquote{
     border-left: 4px solid grey;
     padding: 1em;
 }
-
 .kids{
     margin-left: -3rem;
+}
+.journal-header{
+    margin: 0;
+    background-image: url(../image/remote-home.jpg);
+    min-height: 100%;
+    display: flex;
+}
+.header-text{
+    color: white;
+    padding: 10rem;
+    text-align: center;
+    width: 50%;
+    margin: auto;
 }
