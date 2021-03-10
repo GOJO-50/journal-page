@@ -1,0 +1,37 @@
+img {
+    max-width: 100%;
+}
+h1 {
+    font-size: 48pt;
+    margin: 0;
+    text-align: left;
+}
+body {
+    font-size: 12pt;
+    text-align: justify;
+}
+.first {
+    border-top: 3px double blue;
+    border-bottom: 3px double blue;
+    font-size: 24pt;
+    line-height: 30pt;
+
+}
+.journal-content {
+    font-size: 14pt;
+    width: 40%;
+    margin: 0% auto;
+    background-color: white;
+    padding: 1em;
+    text-align: justify;
+}
+blockquote {
+    border-left: 4px solid grey;
+    padding: 1em;
+}
+.kids {
+    margin-left: -3rem;
+}
+.journal-header {
+    margin: 0;
+}
